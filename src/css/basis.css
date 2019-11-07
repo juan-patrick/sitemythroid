@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800&display=swap');
+
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.index table {
+	margin-top: 50px;
+	margin-left: 70px;
+	box-shadow: 5px 5px 15px grey;
+	margin-bottom: 40px;
+}
+
+.index tr {
+	font-family: arial;
+	font-size: 40px;
+	background: black;
+	color: white;
+}
+
+.index p {
+	font-family: Arial;
+	font-size: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.index td img {
+	border: 2px solid white;
+	box-shadow: 5px 5px 5px purple;
+	width: 100%;
+	height: auto;
+}
+
+.index li {
+	font-size: 30;
+	margin-left: 50px;
+}
+
+.biografia table {
+	margin-top: 50px;
+	margin-left: 70px;
+	box-shadow: 5px 5px 15px grey;
+	margin-bottom: 40px;
+}
+
+.biografia tr {
+	font-family: arial;
+	font-size: 40px;
+	background: black;
+	color: white;
+}
+
+.biografia tr img {
+	margin-right: -218px;
+	border: 2px solid white;
+	box-shadow: 5px 5px 5px purple;
+}
+
+.biografia p {
+	font-family: Arial;
+	font-size: 20px;
+}
+
+.albuns table {
+	margin-top: 50px;
+	margin-left: 70px;
+	box-shadow: 5px 5px 10px grey;
+	margin-bottom: -10px;
+}
+
+.albuns tr {
+	font-family: Arial;
+	font-size: 20px;
+	background: black;
+	color: white;
+}
+
+.albuns td img {
+	border: 2px solid white;
+	box-shadow: 5px 5px 5px purple;
+	width: auto;
+}
+
+.albuns p {
+	border-bottom: 2px solid white;
+	margin-bottom: 50px;
+	text-align: left;
+}
+
+.midia table {
+	margin-top: 50px;
+	margin-left: 70px;
+	box-shadow: 5px 5px 15px grey;
+	margin-bottom: 40px;
+}
+
+.midia tr {
+	font-family: arial;
+	font-size: 21px;
+	background: black;
+	color: white;
+}
+
+.midia tr img {
+	margin-right: -218px;
+	border: 2px solid white;
+	box-shadow: 5px 5px 5px purple;
+}
+
+.midia p {
+	margin-right: 300px;
+}
+
+.cadastro table {
+	margin-top: 50px;
+	margin-left: 70px;
+	box-shadow: 5px 5px 15px grey;
+	margin-bottom: 40px;
+}
+
+.cadastro tr {
+	font-family: arial;
+	font-size: 21px;
+	background: black;
+	color: white;
+}
+
+.cadastro tr img {
+	margin-right: -218px;
+	border: 2px solid white;
+	box-shadow: 5px 5px 5px purple;
+}
+
+.cadastro p {
+	margin-right: 300px;
+}
+
+.referencias table {
+	margin-top: 50px;
+	margin-left: 70px;
+	box-shadow: 5px 5px 15px grey;
+	margin-bottom: 40px;
+}
+
+.referencias tr {
+	font-family: arial;
+	font-size: 40px;
+	background: black;
+	color: white;
+}
+
+.referencias p {
+	font-family: Arial;
+	font-size: 25px;
+}
