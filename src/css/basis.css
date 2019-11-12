@@ -2,6 +2,13 @@
 @import url('https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800&display=swap');
 
+
+:root {
+    --bg: #333;
+    --feature: #8e44ad;
+    --text: #fff;
+}
+
 body {
 	margin: 0;
 	padding: 0;
@@ -9,37 +16,9 @@ body {
 	font-family: 'Open Sans', sans-serif;
 }
 
-.index table {
-	margin-top: 50px;
-	margin-left: 70px;
-	box-shadow: 5px 5px 15px grey;
-	margin-bottom: 40px;
-}
-
-.index tr {
-	font-family: arial;
-	font-size: 40px;
-	background: black;
-	color: white;
-}
-
-.index p {
-	font-family: Arial;
-	font-size: 20px;
-	margin-left: 50px;
-	margin-right: 50px;
-}
-
-.index td img {
-	border: 2px solid white;
-	box-shadow: 5px 5px 5px purple;
-	width: 100%;
-	height: auto;
-}
-
-.index li {
-	font-size: 30;
-	margin-left: 50px;
+h1{
+	padding: 0;
+	margin: 0;
 }
 
 .biografia table {
